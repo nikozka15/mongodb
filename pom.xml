@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <mongodb-driver-sync.version>4.11.0</mongodb-driver-sync.version>
 
-        <logback-classic.version>1.4.12</logback-classic.version>
+        <logback-classic.version>1.4.14</logback-classic.version>
 
     </properties>
 
